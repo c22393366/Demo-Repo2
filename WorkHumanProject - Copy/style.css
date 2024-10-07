@@ -1,0 +1,21 @@
+body {
+    background-image: url("../Background.jpg");
+    background-size: cover;
+    background-color: pink;
+    margin: 0; /* Remove default margin */
+}
+
+div.container {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically if needed */
+    flex-direction: column; /* Stack items vertically */
+    text-align: center;
+    font-size: larger;
+    padding: 10px;
+}
+
+
+table{
+    background-color: white;
+}
